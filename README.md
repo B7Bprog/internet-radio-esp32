@@ -1,4 +1,4 @@
-### Add a file called 'secrets.h' in the root folder and inlide the following:
+### Add a file called 'secrets.h' in the root folder and include the following:
 
 ```javascript
 #define ACTUAL_SSID "your_wifi_ssid"
